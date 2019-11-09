@@ -37,6 +37,7 @@ def naming_system
     subcategory: {
       label: "Class",
       subcategory: {
+        label: "Order"
         
       }
     }
