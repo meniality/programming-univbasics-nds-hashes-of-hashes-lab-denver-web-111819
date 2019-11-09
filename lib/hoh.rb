@@ -32,12 +32,12 @@
 
 def naming_system 
   hoh = {label: "Kingdom", 
-  subcategory:{
+  sub_category:{
     label: "Phylum",
-    subcategory: {
+    sub_category: {
       label: "Class",
-      subcategory: {
-        label: "Order"
+      sub_category: {
+        label: "Order",
         
       }
     }
