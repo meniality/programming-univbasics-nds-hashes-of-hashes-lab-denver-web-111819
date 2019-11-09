@@ -30,10 +30,15 @@
 #   sub_category: nil
 # }
 
-def naming_system
-  
-    
+def naming_system{
+  label: "Kingdom", 
+  subcategory:{
+    label: "Phylum",
+    subcategory: {
+      label: "Class"
+    }
   }
+}
   # Remember:
   #  Kingdom
   #  Phylum
