@@ -35,7 +35,10 @@ def naming_system{
   subcategory:{
     label: "Phylum",
     subcategory: {
-      label: "Class"
+      label: "Class",
+      subcategory: {
+        
+      }
     }
   }
 }
